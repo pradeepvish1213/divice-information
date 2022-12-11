@@ -1889,6 +1889,11 @@ address@1.1.2, address@^1.0.1:
   resolved "https://registry.yarnpkg.com/address/-/address-1.1.2.tgz#bf1116c9c758c51b7a933d296b72c221ed9428b6"
   integrity sha512-aT6camzM4xEA54YVJYSqxz1kv4IHnQZRtThJJHhUMRExaU5spC7jX5ugSwTaTgJliIgs4VhZOk7htClvQ/LmRA==
 
+address@^1.1.2:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/address/-/address-1.2.1.tgz#25bb61095b7522d65b357baa11bc05492d4c8acd"
+  integrity sha512-B+6bi5D34+fDYENiH5qOlA0cV2rAGKuWZ9LeyUUehbXy8e0VS9e498yO0Jeeh+iM+6KbfudHTFjXw2MmJD4QRA==
+
 adjust-sourcemap-loader@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/adjust-sourcemap-loader/-/adjust-sourcemap-loader-2.0.0.tgz#6471143af75ec02334b219f54bc7970c52fb29a4"
@@ -8513,9 +8518,9 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
